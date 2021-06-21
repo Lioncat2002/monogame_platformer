@@ -1,0 +1,128 @@
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.exe
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.deps.json
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.runtimeconfig.json
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.runtimeconfig.dev.json
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.dll
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\tilemaptest.pdb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.csproj.AssemblyReference.cache
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.AssemblyInfoInputs.cache
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.AssemblyInfo.cs
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.csproj.CoreCompileInputs.cache
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.csproj.CopyComplete
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.dll
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.pdb
+D:\monogame\tilemaptest\tilemaptest\obj\Debug\netcoreapp3.1\tilemaptest.genruntimeconfig.cache
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Cave Tileset\Cave Tileset\Brown_Tile_Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Cave Tileset\Cave Tileset\Gray_Tile_Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Cave Tileset\Cave Tileset\Scaffolding_and_BG_Parts (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Cave Tileset\Cave Tileset\_Complete_static_BG_(288 x 208).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\map.tmx
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Coin (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Health_Kit (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Heart_Spin (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Small_Coin (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Treasure_Chest (32 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Common Pick-ups\Wrapped_Presents (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Effects\Bright_Sparkle (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Effects\Cloud_Poof (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Effects\Dust (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Effects\Explosion_Poof (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Effects\Yellow_Sparkle (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Bottled_Drinks (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Burger_&_Fries (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Cake_Slices (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Chocolate_Bars (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Fruits (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Grilled_Panini (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Ice_Cream_Cones (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Milk_Cartons (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Pancake_Stack (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Salad_Bowl (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Sushi_Variety (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Food Items\Wrapped_Candies (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Health_Indicator_Black_Outline (8 x 8).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Health_Indicator_White_Outline (8 x 8).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Mouse_Icons_Outlined (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Mouse_Icons_Outlined_Drop-shadowed (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Speech_Emotes (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Timer_Coin_Numbers_Drop-shadowed (8 x 8).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Mini FX, Items & UI\Mini FX, Items & UI\Mini UI\Timer_Coin_Numbers_Outlined (8 x 8).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\1 - Foreground_scenery.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\2 - Hills.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\3 - Cloud_cover_1.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\4 - Cloud_cover_2.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\5 - Sky_color.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Background parts\_Complete_static_BG_(288 x 208).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Extra_plants (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Grassland_entities (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\1 - Grassland\Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Autumn_entities (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\1 - Leaf_top.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\2 - Trees.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\3 - Bottom_leaf_piles.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\4 - Tree_row_BG_1.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\5 - Tree_row_BG_2.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\6 - Distant_trees.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Background parts\_Complete_static_BG_(288 x 208).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\2 - Autumn Forest\Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\1 - Waters_version_1.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\2 - Waters_version_2.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\3 - Floating_clouds.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\4 - Background_clouds.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\5 - Sky_color.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Background parts\_Complete_static_BG_(288 x 208).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\3 - Tropics\Tropics_entities (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Background parts\1 - Snowy_foreground_area.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Background parts\2 - Smaller_mountains.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Background parts\3 - Big_mountain_BG.xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Background parts\_Complete_static_BG_(288 x 208).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Terrain (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\4 - Winter World\Winter_entities (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Blocks (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Bubbling_Oil_frames (16 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Flowers (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\House (112 x 96).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Lava_frames (16 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Metal_Wire_fence (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Rock_shape (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Snack_machine_Bench_Trash_bin (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Seasonal Tilesets\Seasonal Tilesets\5 - Misc. universal tiles\Water_frames (16 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\1 - Agent_Mike_Bullet (16 x 16).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\1 - Agent_Mike_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\1 - Agent_Mike_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\1 - Agent_Mike_Jump_&_Falling (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\1 - Agent_Mike_Running (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\10 - Blankey_Floating (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\10 - Blankey_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\2 - Martian_Red_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\2 - Martian_Red_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\2 - Martian_Red_Running (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\3 - Hermie_Crawling (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\3 - Hermie_Hiding_&_Peek (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\3 - Hermie_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\4 - Ballooney_Flying (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\5 - Robot_Walky_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\5 - Robot_Walky_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\5 - Robot_Walky_Movement (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\6 - Jumpy_Lumpy_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\6 - Jumpy_Lumpy_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\6 - Jumpy_Lumpy_Leaping_&_Falling (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\7 - Orchid_Owl_Flying (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\7 - Orchid_Owl_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\7 - Orchid_Owl_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\8 - Roach_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\8 - Roach_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\8 - Roach_Running (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\9 - Mr._Circuit_Hurt (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\9 - Mr._Circuit_Idle (32 x 32).xnb
+D:\monogame\tilemaptest\tilemaptest\bin\Debug\netcoreapp3.1\Content\Sprite Pack 4\Sprite Pack 4\9 - Mr._Circuit_Running (32 x 32).xnb
