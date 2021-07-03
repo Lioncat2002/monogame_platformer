@@ -38,7 +38,7 @@ namespace tilemaptest
                 _spriteBatch.Draw(spritesheet,pos,new Rectangle(cellwidth*c,0,cellwidth,cellheight),Color.White);
                 timeSinceLastFrame +=gameTime.ElapsedGameTime.Milliseconds;
                 if (timeSinceLastFrame > millisecondsPerFrame){
-                    Console.WriteLine("c:"+c);
+
                     timeSinceLastFrame -= millisecondsPerFrame;
                     c++;
                     if (c == frames)

@@ -91,21 +91,26 @@ namespace tilemaptest
                 Exit();
            
            var initpos = player.playerPos;
-           player.Update();
+           
            var fallcheck = new Rectangle(player.playerPos.X,player.playerPos.Y+32,32,2);
+           player.Update();
            foreach (var r in collisionObjects)
            {
-               if (r.Intersects(fallcheck))
+               if (r.Contains(fallcheck))
                {
+                   
                    player.isFalling = false;
+                   //Console.WriteLine(player.isFalling);
                    player.playerPos.Y = initpos.Y;
+                   player.isJumping = false;
+                 
                }
                else
                {
                    player.isFalling = true;
                }
 
-               if (r.Intersects(player.playerPos))
+               if (r.Intersects(new Rectangle(player.playerPos.X,player.playerPos.Y-2,player.playerPos.Width,player.playerPos.Height)))
                {
                    player.playerPos.X = initpos.X;
                }
